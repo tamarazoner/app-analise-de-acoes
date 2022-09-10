@@ -1,0 +1,5 @@
+,nome,idade
+0,GGBR4,"=RTD(""rtdtrading.rtdserver"";; $A1; ""ULT"")"
+1,João,38
+2,Daniel,24
+3,GGBR4,"=RTD(""rtdtrading.rtdserver"";; $B2; ""ULT"")"
