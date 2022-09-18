@@ -97,3 +97,4 @@ for s in group_symbols:
 
 # concluímos a conexão ao terminal MetaTrader 5
 mt5.shutdown()"""
+   ''' afF
